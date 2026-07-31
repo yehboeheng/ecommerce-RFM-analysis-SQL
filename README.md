@@ -16,3 +16,5 @@
 ## 📁 檔案說明
 * `SQL 電商.ipynb`：包含運用 SQL 進行資料清洗、交易資料聚合及 RFM 指標計算與分群的 Jupyter Notebook 分析腳本。
 * `README.md`：專案說明文件。
+## 🔗 相關專案連結
+- 完整 Python 與 Tableau 視覺化分析專案：[ecommerce-RFM-analysis](https://github.com/yehboeheng/ecommerce-RFM-analysis)
